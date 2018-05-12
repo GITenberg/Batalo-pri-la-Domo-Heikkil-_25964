@@ -1,0 +1,44 @@
+_repo: Batalo-pri-la-Domo-Heikkil-_25964
+_version: 0.1.0
+alternative_title: Taistelu Heikkilän talosta. Esperanto
+contributor:
+  translator:
+    agent_name: Setälä, Vilho
+    aliases:
+    - Setala, Vilho
+    - Vilho Setälä
+    birthdate: 1892
+    deathdate: 1985
+    gutenberg_agent_id: '31697'
+    url: http://www.gutenberg.org/2009/agents/31697
+    wikipedia: http://eo.wikipedia.org/wiki/Vilho_Suonio_Set%C3%A4l%C3%A4
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Linnankoski, Johannes
+    alias: Peltonen, Vihtori
+    birthdate: 1869
+    deathdate: 1913
+    gutenberg_agent_id: '4130'
+    url: http://www.gutenberg.org/2009/agents/4130
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Johannes_Linnankoski
+    - http://fi.wikipedia.org/wiki/Johannes_Linnankoski
+description: ''
+gutenberg_bookshelf: Esperanto
+gutenberg_issued: '2008-07-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25964'
+language: eo
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Finna Biblioteko Esperanta, no. 1
+subjects:
+- !lcc 'PH'
+- !lcsh 'Finnish Fiction -- Translations into Esperanto'
+title: Batalo pri la Domo Heikkilä
+url: http://www.gutenberg.org/ebooks/25964
